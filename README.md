@@ -1,0 +1,4 @@
+ympy
+====
+
+Python/pandas utilities
